@@ -1,13 +1,20 @@
 {
-  "address" : {
-    "0x1786191d0ce793debfdef9890868abdcdc7053f982ccdd102a72732b3082f31d": "Tsunami",
-    "0x6970b4878c3aea96732be3f31c2dded12d94d9455ff0c76c67d84859dce35136": "Thala Launch",
-    "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01": "Mod Vault"
+  "address": {
+    "0x1786191d0ce793debfdef9890868abdcdc7053f982ccdd102a72732b3082f31d": {
+      "label": "Tsunami",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/Aptos-Scan/public-logos/main/tsunami.png"
+      }
+    },
+    "0x6970b4878c3aea96732be3f31c2dded12d94d9455ff0c76c67d84859dce35136": {
+      "label": "Thala Launch",
+      "metadata": {}
+    },
+    "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01": {
+      "label": "Mod Vault",
+      "metadata": {}
+    }
   },
-  "module": {
-
-  },
-  "hacker": {
-
-  }
+  "module": {},
+  "hacker": {}
 }
