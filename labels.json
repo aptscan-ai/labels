@@ -100,32 +100,32 @@
       "metadata": {
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/tsunami.png"
       }
-    }
-  },
-  "module": {},
-  "hacker": {}
-},
- "0xd91c64b777e51395c6ea9dec562ed79a4afa0cd6dad5a87b187c37198a1f855a": {
+    },
+    "0xd91c64b777e51395c6ea9dec562ed79a4afa0cd6dad5a87b187c37198a1f855a": {
       "label": "Binance 1",
       "metadata": {
         "sub_type": "exchange"
       }
     },
- "0x80174e0fe8cb2d32b038c6c888dd95c3e1560736f0d4a6e8bed6ae43b5c91f6f": {
+    "0x80174e0fe8cb2d32b038c6c888dd95c3e1560736f0d4a6e8bed6ae43b5c91f6f": {
       "label": "Binance 2",
       "metadata": {
         "sub_type": "exchange"
       }
     },
- "0xae1a6f3d3daccaf77b55044cea133379934bba04a11b9d0bbd643eae5e6e9c70": {
+    "0xae1a6f3d3daccaf77b55044cea133379934bba04a11b9d0bbd643eae5e6e9c70": {
       "label": "Binance 3",
       "metadata": {
         "sub_type": "exchange"
       }
     },
- "0x834d639b10d20dcb894728aa4b9b572b2ea2d97073b10eacb111f338b20ea5d7": {
+    "0x834d639b10d20dcb894728aa4b9b572b2ea2d97073b10eacb111f338b20ea5d7": {
       "label": "OKX",
       "metadata": {
         "sub_type": "exchange"
       }
-    },
+    }
+  },
+  "module": {},
+  "hacker": {}
+}
