@@ -14,6 +14,13 @@
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/pancake.png"
       }
     },
+    "0xd5431191333a6185105c172e65f9fcd945ae92159ab648e1a9ea88c71e275548": {
+      "label": "SeaShrine",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/seashrine.png",
+        "sub_type": "marketplace"
+      }
+    },
     "0x05a97986a9d031c4567e15b797be516910cfcb4156312482efc6a19c0a30c948": {
       "label": "Liquidswap",
       "metadata": {
