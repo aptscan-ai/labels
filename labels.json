@@ -9,14 +9,14 @@
       "metadata": {}
     },
     "0x576410486a2da45eee6c949c995670112ddf2fbeedab20350d506328eefc9d4f": {
-      "label": "WormHole : TokenBridge",
+      "label": "WormHole : Token Bridge",
       "metadata": {
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/wormhole.png",
         "sub_type": "bridge"
       }
     },
     "0x5bc11445584a763c1fa7ed39081f1b920954da14e04b32440cba863d03e19625": {
-      "label": "WormHole : CoreBridge",
+      "label": "WormHole : Core Bridge",
       "metadata": {
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/wormhole.png",
         "sub_type": "bridge"
