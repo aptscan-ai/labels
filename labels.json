@@ -170,6 +170,12 @@
       "metadata": {
         "sub_type": "DEX"
       }
+    },
+    "0x8d2d7bcde13b2513617df3f98cdd5d0e4b9f714c6308b9204fe18ad900d92609": {
+      "label": "Chingari",
+      "metadata": {
+        "sub_type": "Web3 Social"
+      }
     }
   },
   "module": {},
