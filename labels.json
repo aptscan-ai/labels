@@ -42,6 +42,13 @@
         "sub_type": "marketplace"
       }
     },
+    "0x2a1f62a1663fc7e6c08753e8fc925fbcb946c4b80c5c95a95314a16bc3ac24bc": {
+      "label": "BlueMove",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/bluemove.png",
+        "sub_type": "marketplace"
+      }
+    },
     "0x05a97986a9d031c4567e15b797be516910cfcb4156312482efc6a19c0a30c948": {
       "label": "Liquidswap",
       "metadata": {
@@ -68,10 +75,10 @@
         "sub_type": "marketplace"
       }
     },
-    "0x2a1f62a1663fc7e6c08753e8fc925fbcb946c4b80c5c95a95314a16bc3ac24bc": {
-      "label": "BlueMove",
+    "0xe11c12ec495f3989c35e1c6a0af414451223305b579291fc8f3d9d0575a23c26": {
+      "label": "Mercato",
       "metadata": {
-        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/bluemove.png",
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/mercato.png",
         "sub_type": "marketplace"
       }
     },
