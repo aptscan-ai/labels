@@ -1,5 +1,21 @@
 {
   "address": {
+    "0x1": {
+      "label": "0x1",
+      "metadata": {}
+    },
+    "0x2": {
+      "label": "0x2",
+      "metadata": {}
+    },
+    "0x3": {
+      "label": "0x3",
+      "metadata": {}
+    },
+    "0x4": {
+      "label": "0x4",
+      "metadata": {}
+    },
     "0x6970b4878c3aea96732be3f31c2dded12d94d9455ff0c76c67d84859dce35136": {
       "label": "Thala Launch",
       "metadata": {}
