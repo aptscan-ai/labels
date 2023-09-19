@@ -51,6 +51,13 @@
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/pancake.png"
       }
     },
+    "0x584b50b999c78ade62f8359c91b5165ff390338d45f8e55969a04e65d76258c9": {
+      "label": "Wapal",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/wapal.png",
+        "sub_type": "marketplace"
+      }
+    },
     "0xd5431191333a6185105c172e65f9fcd945ae92159ab648e1a9ea88c71e275548": {
       "label": "SeaShrine",
       "metadata": {
