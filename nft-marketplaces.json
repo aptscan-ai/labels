@@ -1,0 +1,46 @@
+{
+    "marketplaces": {
+      "Topaz": {
+        "name": "Topaz",
+        "url": "https://www.topaz.so/",
+        "logo": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/topaz.png",
+        "detailUrl": "",
+        "color": "#e879fa"
+      },
+      "Wapal": {
+        "name": "Wapal",
+        "url": "https://wapal.io/",
+        "logo": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/wapal.png",
+        "detailUrl": "",
+        "color": "#8859ff"
+      },
+      "BlueMove": {
+        "name": "BlueMove",
+        "url": "https://bluemove.net/",
+        "logo": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/bluemove.png",
+        "detailUrl": "",
+        "color": "#0745f5"
+      },
+      "Mercato": {
+        "name": "Mercato",
+        "url": "https://www.mercato.xyz/",
+        "logo": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/mercato.png",
+        "detailUrl": "",
+        "color": "#3fc17e"
+      },
+      "SeaShrine": {
+        "name": "SeaShrine",
+        "url": "https://seashrine.io/",
+        "logo": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/seashrine.png",
+        "detailUrl": "",
+        "color": "#a4ddf6"
+      },
+      "Souffl3": {
+        "name": "Souffl3",
+        "url": "https://souffl3.com/",
+        "logo": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/souffl3.png",
+        "detailUrl": "",
+        "color": "#fa97c4"
+      }
+    }
+  }
