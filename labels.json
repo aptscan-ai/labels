@@ -31,6 +31,13 @@
         "sub_type": "bridge"
       }
     },
+     "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a": {
+      "label": "Amnis Finance",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/amnisfinance.png",
+        "sub_type": "defi"
+      }
+    },
     "0x5bc11445584a763c1fa7ed39081f1b920954da14e04b32440cba863d03e19625": {
       "label": "WormHole : Core Bridge",
       "metadata": {
