@@ -1,19 +1,15 @@
 {
   "address": {
     "0x1": {
-      "label": "0x1",
-      "metadata": {}
-    },
-    "0x2": {
-      "label": "0x2",
+      "label": "Aptos framework functions",
       "metadata": {}
     },
     "0x3": {
-      "label": "0x3",
+      "label": "Aptos legacy tokens",
       "metadata": {}
     },
     "0x4": {
-      "label": "0x4",
+      "label": "Aptos digital asset standard",
       "metadata": {}
     },
     "0x6970b4878c3aea96732be3f31c2dded12d94d9455ff0c76c67d84859dce35136": {
@@ -237,6 +233,24 @@
       "label": "Chingari",
       "metadata": {
         "sub_type": "Web3 Social"
+      }
+    },
+    "0xc0188ad3f42e66b5bd3596e642b8f72749b67d84e6349ce325b27117a9406bdf": {
+      "label": "Abel finance",
+      "metadata": {
+        "sub_type": "DEX"
+      }
+    },
+    "0x867ed1f6bf916171b1de3ee92849b8978b7d1b9e0a8cc982a3d19d535dfd9c0c": {
+      "label": "Aptos Names Service"
+    },
+    "0x915efe6647e0440f927d46e39bcb5eb040a7e567e1756e002073bc6e26f2cd23": {
+      "label": "Aptos Graffio: 1st Anniversary"
+    },
+    "0x7e783b349d3e89cf5931af376ebeadbfab855b3fa239b7ada8f5a92fbea6b387": {
+      "label": "Pyth",
+      "metadata": {
+        "sub_type": "oracle"
       }
     }
   },
