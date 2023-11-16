@@ -94,6 +94,12 @@
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/hippo.png"
       }
     },
+    "0x890812a6bbe27dd59188ade3bbdbe40a544e6e104319b7ebc6617d3eb947ac07": {
+      "label": "Hippo",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/hippo.png"
+      }
+    },
     "0x2c7bccf7b31baf770fdbcc768d9e9cb3d87805e255355df5db32ac9a669010a2": {
       "label": "Topaz",
       "metadata": {
@@ -150,6 +156,9 @@
       "metadata": {
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/animeswap.png"
       }
+    },
+    "0x2ad8f7e64c7bffcfe94d7dea84c79380942c30e13f1b12c7a89e98df91d0599b": {
+      "label": "BAPTswap"
     },
     "0xec42a352cc65eca17a9fa85d0fc602295897ed6b8b8af6a6c79ef490eb8f9eba": {
       "label": "Cetus",
