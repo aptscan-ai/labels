@@ -119,6 +119,10 @@
         "sub_type": "marketplace"
       }
     },
+     "0x31a6675cbe84365bf2b0cbce617ece6c47023ef70826533bde5203d32171dc3c": {
+      "label": "Sushi Swap",
+      "metadata": {}
+    },
     "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12": {
       "label": "Liquidswap",
       "metadata": {
