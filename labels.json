@@ -123,6 +123,12 @@
       "label": "Sushi Swap",
       "metadata": {}
     },
+  "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06": {
+      "label": "Merkle Trade",
+      "metadata": {
+        "sub_type": "defi"
+      },
+    },
     "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12": {
       "label": "Liquidswap",
       "metadata": {
