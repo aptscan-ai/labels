@@ -16,6 +16,13 @@
       "label": "0x4",
       "metadata": {}
     },
+    "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6": {
+      "label": "Thala LSD",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/thala.png",
+        "sub_type": "defi"
+      }
+    },
     "0x6970b4878c3aea96732be3f31c2dded12d94d9455ff0c76c67d84859dce35136": {
       "label": "Thala Launch",
       "metadata": {}
