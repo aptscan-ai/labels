@@ -1,19 +1,15 @@
 {
   "address": {
     "0x1": {
-      "label": "0x1",
-      "metadata": {}
-    },
-    "0x2": {
-      "label": "0x2",
+      "label": "Aptos framework functions",
       "metadata": {}
     },
     "0x3": {
-      "label": "0x3",
+      "label": "Aptos legacy tokens",
       "metadata": {}
     },
     "0x4": {
-      "label": "0x4",
+      "label": "Aptos digital asset standard",
       "metadata": {}
     },
     "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6": {
@@ -105,6 +101,12 @@
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/hippo.png"
       }
     },
+    "0x890812a6bbe27dd59188ade3bbdbe40a544e6e104319b7ebc6617d3eb947ac07": {
+      "label": "Hippo",
+      "metadata": {
+        "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/hippo.png"
+      }
+    },
     "0x2c7bccf7b31baf770fdbcc768d9e9cb3d87805e255355df5db32ac9a669010a2": {
       "label": "Topaz",
       "metadata": {
@@ -171,6 +173,9 @@
       "metadata": {
         "image": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/animeswap.png"
       }
+    },
+    "0x2ad8f7e64c7bffcfe94d7dea84c79380942c30e13f1b12c7a89e98df91d0599b": {
+      "label": "BAPTswap"
     },
     "0xec42a352cc65eca17a9fa85d0fc602295897ed6b8b8af6a6c79ef490eb8f9eba": {
       "label": "Cetus",
@@ -254,6 +259,24 @@
       "label": "Chingari",
       "metadata": {
         "sub_type": "Web3 Social"
+      }
+    },
+    "0xc0188ad3f42e66b5bd3596e642b8f72749b67d84e6349ce325b27117a9406bdf": {
+      "label": "Abel finance",
+      "metadata": {
+        "sub_type": "DEX"
+      }
+    },
+    "0x867ed1f6bf916171b1de3ee92849b8978b7d1b9e0a8cc982a3d19d535dfd9c0c": {
+      "label": "Aptos Names Service"
+    },
+    "0x915efe6647e0440f927d46e39bcb5eb040a7e567e1756e002073bc6e26f2cd23": {
+      "label": "Aptos Graffio: 1st Anniversary"
+    },
+    "0x7e783b349d3e89cf5931af376ebeadbfab855b3fa239b7ada8f5a92fbea6b387": {
+      "label": "Pyth",
+      "metadata": {
+        "sub_type": "oracle"
       }
     }
   },
