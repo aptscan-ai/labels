@@ -267,6 +267,12 @@
         "sub_type": "DEX"
       }
     },
+     "0x3c1d4a86594d681ff7e5d5a233965daeabdc6a15fe5672ceeda5260038857183": {
+      "label": "Aptin finance",
+      "metadata": {
+        "sub_type": "DEX"
+      }
+    },   
     "0x867ed1f6bf916171b1de3ee92849b8978b7d1b9e0a8cc982a3d19d535dfd9c0c": {
       "label": "Aptos Names Service"
     },
