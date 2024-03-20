@@ -272,6 +272,12 @@
       "metadata": {
         "sub_type": "DEX"
       }
+    },
+     "0x17f1e926a81639e9557f4e4934df93452945ec30bc962e11351db59eb0d78c33": {
+      "label": "VibrantX",
+      "metadata": {
+        "sub_type": "DEX"
+      } 
     },   
     "0x867ed1f6bf916171b1de3ee92849b8978b7d1b9e0a8cc982a3d19d535dfd9c0c": {
       "label": "Aptos Names Service"
