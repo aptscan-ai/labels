@@ -288,9 +288,12 @@
     "0x867ed1f6bf916171b1de3ee92849b8978b7d1b9e0a8cc982a3d19d535dfd9c0c": {
       "label": "Aptos Names Service"
     },
-    "0x915efe6647e0440f927d46e39bcb5eb040a7e567e1756e002073bc6e26f2cd23": {
-      "label": "Aptos Graffio: 1st Anniversary"
+    "0x8604c4ee379f6108560aa2baff93eda4cfc907d3e55473967e7787ddae23a071": {
+      "label": "XGamble"
     },
+     "0x915efe6647e0440f927d46e39bcb5eb040a7e567e1756e002073bc6e26f2cd23": {
+      "label": "Aptos Graffio: 1st Anniversary"
+     },   
     "0x7e783b349d3e89cf5931af376ebeadbfab855b3fa239b7ada8f5a92fbea6b387": {
       "label": "Pyth",
       "metadata": {
