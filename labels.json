@@ -293,6 +293,12 @@
     },
      "0x915efe6647e0440f927d46e39bcb5eb040a7e567e1756e002073bc6e26f2cd23": {
       "label": "Aptos Graffio: 1st Anniversary"
+    },
+    "0x7b5f16f0511939cf18670e8ca5003dbf974de66e6e2bf1fd649298df2d47a07a": {
+      "label": "XGamble Framework"
+     },   
+    "0x5aab467624747605a9371def4d793a165f1c15f4025886b6f7f2d2995fb52ca5": {
+      "label": "XGamble Framework 2"
      },   
     "0x7e783b349d3e89cf5931af376ebeadbfab855b3fa239b7ada8f5a92fbea6b387": {
       "label": "Pyth",
